@@ -32,7 +32,7 @@ $ git clone https://github.com/jeloand/CSElec3-Mini-Project.git
 $ pip3 install -r requirements.txt
 ```
 ## :game_die: Train the model
-Run following command to train the model
+Run the following command to train the model
 ```
 $ python3 detect_mask_video.py 
 ```

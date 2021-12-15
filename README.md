@@ -14,7 +14,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ```
 $ git clone https://github.com/jeloand/CSElec3-Mini-Project/Face-Mask-Detection.git
 ```
-2. After downloading the zip or cloning the repo, go to respective directory and run the following command in your Terminal to install the libraries required.
+2. After downloading the zip or cloning the repo, go to the respective directory and run the following command in your Terminal to install the libraries required.
 ```
 $ pip3 install -r requirements.txt
 ```

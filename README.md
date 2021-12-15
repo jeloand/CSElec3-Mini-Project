@@ -13,7 +13,7 @@
     │   ├── deploy.prototxt
     │   ├── res10_300x300_ssd_iter_140000.caffemodel
     ├── detect_mask_video.py                    
-    ├── mask_detector_model                    
+    ├── mask_detector.model                    
     ├── requirements.txt                    
     ├── train_mask_detector.py                    
     └── README.md

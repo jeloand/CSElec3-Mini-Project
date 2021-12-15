@@ -6,7 +6,7 @@
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/jeloand/CSElec3-Mini-Project/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/jeloand/CSElec3-Mini-Project/blob/main/requirements.txt)
 
 ## 🚀&nbsp; Installation
 
